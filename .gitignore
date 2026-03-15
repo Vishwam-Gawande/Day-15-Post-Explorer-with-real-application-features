@@ -1,0 +1,11 @@
+# Exclude a specific file
+unwanted-file.txt
+
+# Exclude a specific folder
+folder-to-exclude/
+another-folder/
+
+# Exclude files by pattern
+*.log
+*.tmp
+node_modules/
